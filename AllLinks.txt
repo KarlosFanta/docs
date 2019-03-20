@@ -2,10 +2,10 @@ PDF versions:
 Zone7 only:
 
  All Stages:
-https://github.com/.../Loads.../Stages123and4__Zone7only.pdf
+https://github.com/KarlosFanta/docs/raw/master/Loadshedding/Stages123and4__Zone7only.pdf
 
 Excel:
-https://github.com/.../Load.../Stages123and4__Zone7only.xlsx
+https://github.com/KarlosFanta/docs/raw/master/Loadshedding/Stages123and4__Zone7only.xlsx
 Manage
 
 Stage1:
